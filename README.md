@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<img src="https://raw.githubusercontent.com/AurelienBesnier/AurelienBesnier/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--
 **AurelienBesnier/AurelienBesnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
